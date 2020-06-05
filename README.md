@@ -20,3 +20,5 @@ I also plan to add sound and other sensors but this board provides my core needs
 
 ### Controller
 I am using a raspberry pi 4 as the controller for this project because I have one on-hand and it is an easy platform for the rest of my project. 
+
+Since I am using AWS Greengrass, I followed the [setup guide in the docs](https://docs.aws.amazon.com/greengrass/latest/developerguide/setup-filter.rpi.html).

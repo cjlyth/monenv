@@ -25,4 +25,4 @@ Since I am using AWS Greengrass, I followed the [setup guide in the docs](https:
 
 ### Case
 I hacked together a basic case to protect everything as I develop this project. 
-This led me to [an annoying design flaw with the OpenLog Artemis](docs/openlog-design-flaw).
+This led me to [an annoying design flaw with the OpenLog Artemis](docs/openlog-design-flaw.md).
